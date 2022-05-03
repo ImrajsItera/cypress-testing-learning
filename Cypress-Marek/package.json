@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}

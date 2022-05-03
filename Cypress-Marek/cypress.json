@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://365.bank",
+  "ignoreTestFiles": "**/examples/*/*.js",
+  "viewportHeight": 1080,
+  "viewportWidth": 1920,
+  "chromeWebSecurity": true
+}
